@@ -1,2 +1,12 @@
-# sublime-wikidot-syntax-highlighting
-Syntax Highlighter for the Wikidot markup code
+# Syntax Highlighting for Wikidot
+
+This repository contains a source code for Sublime Text 3/4 package which implements syntax highlighting for the [Wikidot](https://www.wikidot.com/) markup code; particular attention was given to the format for the [SCP Foundation](https://en.wikipedia.org/wiki/SCP_Foundation) writing community.
+
+## Installation
+
+First, on Sublime Text install [Package Control](https://packagecontrol.io/installation).
+Then click on `Tools` -> `Command Palette`; in the textarea that will open, write `Package Control: Install Package'
+A dropdown with all available packages will appear; write or search for `Syntax Highlighting for Wikidot` and click on it.
+
+## License
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
