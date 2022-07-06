@@ -5,7 +5,7 @@ This repository contains a source code for Sublime Text 3/4 package which implem
 ## Installation
 
 First, on Sublime Text install [Package Control](https://packagecontrol.io/installation).
-Then click on `Tools` -> `Command Palette`; in the textarea that will open, write `Package Control: Install Package'
+Then click on `Tools` -> `Command Palette`; in the textarea that will open, write `Package Control: Install Package`.
 A dropdown with all available packages will appear; write or search for `Syntax Highlighting for Wikidot` and click on it.
 
 ## License
