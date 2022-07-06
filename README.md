@@ -9,4 +9,4 @@ Then click on `Tools` -> `Command Palette`; in the textarea that will open, writ
 A dropdown with all available packages will appear; write or search for `Syntax Highlighting for Wikidot` and click on it.
 
 ## License
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+GPL-3.0 license (see the [LICENSE](https://github.com/MrAbadede/sublime-wikidot-syntax-highlighting/blob/main/LICENSE) file for details).
